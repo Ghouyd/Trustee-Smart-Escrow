@@ -49,4 +49,4 @@ Team Hackathon Project - Financial Legislation Track
 
 ## Presentation
 
-[View the project presentation](Truste Project.pdf)
+[View the project presentation]
